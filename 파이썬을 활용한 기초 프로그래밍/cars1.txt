@@ -1,0 +1,5 @@
+ make model price
+0 Hyudai Santafe 1000
+1 Kia K9 900
+2 Tesla Y 2000
+3 Toyota Avalon 2500
