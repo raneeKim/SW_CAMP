@@ -18,4 +18,11 @@ namee
 
 result = pd.merge(mainn,namee,on='상권_코드',how='left')
 result.isna().sum() # 널값확인
+
 result.to_csv('최종파일.csv',encoding='cp949')
+
+
+
+
+result = pd.read_csv("최종파일.csv", encoding='cp949')
+result.info()
