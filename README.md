@@ -4,38 +4,39 @@
 
 <br/>
 
-<table>
-  <tr>
-    <th>분류</th>
-    <th>과목명(세부내용)</th>
-    <th>교육일수</th>
-  </tr>
-  <tr>
-    <td rowspan="2">데이터 기초</td>
-    <td>- 데이터 분석기초 동향</td>
-    <td>40시간</td>
-  </tr>
-  <tr>
-    <td>- 데이터 동향 총론</td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td rowspan="2">파이썬 기초 및 응용</td>
-    <td>- 파이썬 기초 문법</td>
-    <td>80시간</td>
-  </tr>
-  <tr>
-    <td>- pandas, 데이터 가공</td>
-    <td> </td>
-  </tr>
-  <!-- ... 추가 과목들 ... -->
-  <tr>
-    <td rowspan="2">빅데이터 가공 및 분석 실습</td>
-    <td>- SQL문법,쿼리 최적화 이론</td>
-    <td>40시간</td>
-  </tr>
-  <!-- ... 실습에 대한 추가 내용 ... -->
-</table>
+<div style="text-align:center; width:100%;">
+  <table style="margin-left:auto; margin-right:auto;">
+    <tr>
+      <th>과목명</th>
+      <th>세부내용</th>
+      <th>교육일수</th>
+    </tr>
+    <tr>
+      <td rowspan="2">빅데이터 개론</td>
+      <td> 빅데이터 관련 기술 및 동향</td>
+      <td rowspan="2"> 40시간</td>
+    </tr>
+    <tr>
+      <td> 빅데이터 통계학</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td rowspan="2">Python 기초 및 응용 프로그래밍</td>
+      <td> 입출력 및 기본문법</td>
+      <td rowspan="2">80시간</td>
+    </tr>
+    <tr>
+      <td> Pandas, 데이터 가시화</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>빅데이터 가시화 및 데쉬보드 개발</td>
+      <td> Tableau 사용 데이터 시각화 </td>
+      <td>32시간</td>
+    </tr>
+  </table>
+</div>
+
 <br/>
 
 
