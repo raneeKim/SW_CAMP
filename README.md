@@ -1,11 +1,12 @@
 # 빅데이터 예측 분석 개발자 (양성 & 취업연계형) 과정
  
--------------
+
 
 <br/>
 
 <div style="text-align:center; width:100%;">
   <table style="margin-left:auto; margin-right:auto; border-collapse:collapse;">
+   <th colspan="4"> 교육 기간 : 2024.03.25 ~ 2024.09.15 </th>
    <tr>
       <th>과목명</th>
       <th>세부내용</th>
