@@ -47,7 +47,6 @@
        <td> Python을 활용한 데이터 크롤링 </td>
        <td> 뉴스, 공공데이터 수집 및 OpenApi기술</td>
        <td> 40h</td>
-       <td> </td>
    </tr>
    <tr>
        <td rowspan="4"> Python을 활용한 머신러닝 </td>
@@ -64,7 +63,6 @@
       <td rowspan= "2"> 40h</td>
    </tr>
       <td> 데이터 시각화 분석, 가설검정 수행 및 분석</td>
-      <td> </td>
    </tr>
    <tr>
       <td rowspan="3"> Python을 활용한 딥러닝 </td>
@@ -92,7 +90,6 @@
       <td> 현장 인턴쉽</td>
       <td> 맴버십 기업 7개사 현장 실습 프로젝트 </td>
       <td> 240h</td>
-      <td> </td>
    </tr>
   </table>
 </div>
