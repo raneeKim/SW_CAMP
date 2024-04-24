@@ -4,8 +4,8 @@
 
 <br/>
 
-<div style="text-align:center; width:100;">
-  <table style="margin-left:auto; margin-right:auto;">
+<div style="text-align:center; width:100%;">
+  <table style="margin-left:auto; margin-right:auto; border-collapse:collapse;">
    <tr>
       <th>과목명</th>
       <th>세부내용</th>
@@ -26,12 +26,11 @@
    </tr>
    <tr>
       <td> Pandas, 데이터 가시화</td>
-      <td> </td>
    </tr>
    <tr>
       <td>빅데이터 가시화 및 데쉬보드 개발</td>
       <td> Tableau 사용 데이터 시각화 </td>
-      <td>32시간</td>
+      <td> 32시간</td>
    </tr>
    <tr>
       <td>빅데이터를 위한 데이터 베이스 </td>
@@ -44,7 +43,7 @@
        <td> 40시간</td>
    </tr>
    <tr>
-       <td rowspan="4"> Python을 활요한 머신러닝 </td>
+       <td rowspan="4"> Python을 활용한 머신러닝 </td>
        <td> 기계학습 라이브러리 이해, 캐글 실습 </td>
        <td> 40시간</td>
    </tr>
@@ -82,7 +81,7 @@
    <tr>
       <td> 현장 인턴쉽</td>
       <td> 맴버십 기업 7개사 현장 실습 프로젝트 </td>
-      <td> 120시간</td>
+      <td> 240시간</td>
    </tr>
   </table>
 </div>
