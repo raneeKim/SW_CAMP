@@ -61,7 +61,7 @@ select count(phone1) from member;
 select count(*) from member where phone1 is not null;
 
 /*
-count(*) -> null 값을 제외한 데이터를 카운팅
+count(*) -> null 값을 포함한 데이터를 카운팅
 count(열이름) -> null 값을 제외한 데이터를 카운팅
 */
 
@@ -144,3 +144,17 @@ having sum(price*amount) >= 1000;
 
 -- 테이블 전체 정보
 desc buytbl; 
+
+-- 테이블 만들기
+USE market_db;
+
+CREATE TABLE hongong1 (toy_id INT, toy_name CHAR(4), age INT);
+INSERT INTO hongong1 VALUES (1,'우디',25);
+INSERT INTO hongong1 (toy_id, toy_name) VALUES (2,'버즈');
+INSERT INTO hongong1 (toy_name, age, toy_id) VALUES ('제시',20,3);
+
+insert into hongong1 values (4,'아이폰',null);
+
+
+select * from hongong1;
+
